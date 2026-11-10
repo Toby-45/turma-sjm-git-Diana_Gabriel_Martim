@@ -1,3 +1,4 @@
 INDEX one
 INDEX two
 INDEX three
+INDEX 4
